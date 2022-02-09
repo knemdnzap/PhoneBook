@@ -1,0 +1,30 @@
+D:\PhoneBook\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.deps.json
+D:\PhoneBook\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.dll
+D:\PhoneBook\PhoneBook\PhoneBook\bin\Debug\net6.0\ref\PhoneBook.dll
+D:\PhoneBook\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.pdb
+D:\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.AssemblyReference.cache
+D:\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.AssemblyInfoInputs.cache
+D:\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.AssemblyInfo.cs
+D:\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.CoreCompileInputs.cache
+D:\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.dll
+D:\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\ref\PhoneBook.dll
+D:\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.pdb
+D:\PhoneBook\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.exe
+D:\PhoneBook\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.runtimeconfig.json
+D:\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.genruntimeconfig.cache
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.exe
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.deps.json
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.runtimeconfig.json
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook\bin\Debug\net6.0\ref\PhoneBook.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.pdb
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.AssemblyReference.cache
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.AssemblyInfoInputs.cache
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.AssemblyInfo.cs
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.CoreCompileInputs.cache
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\ref\PhoneBook.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.pdb
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.genruntimeconfig.cache

@@ -1,0 +1,210 @@
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\testhost.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.deps.json
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.runtimeconfig.json
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.exe
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\testhost.exe
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.Tests.deps.json
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.Tests.runtimeconfig.json
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.Tests.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ref\PhoneBook.Tests.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.Tests.pdb
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\xunit.abstractions.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\xunit.assert.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\xunit.core.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.pdb
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.csproj.AssemblyReference.cache
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.AssemblyInfoInputs.cache
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.AssemblyInfo.cs
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.csproj.CoreCompileInputs.cache
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.csproj.CopyComplete
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\ref\PhoneBook.Tests.dll
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.pdb
+D:\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.genruntimeconfig.cache
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\testhost.exe
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\testhost.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.deps.json
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.runtimeconfig.json
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.exe
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.Tests.deps.json
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.Tests.runtimeconfig.json
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.Tests.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ref\PhoneBook.Tests.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.Tests.pdb
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\xunit.abstractions.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\xunit.assert.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\xunit.core.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\bin\Debug\net6.0\PhoneBook.pdb
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.csproj.AssemblyReference.cache
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.AssemblyInfoInputs.cache
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.AssemblyInfo.cs
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.csproj.CoreCompileInputs.cache
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.csproj.CopyComplete
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\ref\PhoneBook.Tests.dll
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.pdb
+D:\Documentos\Trabajo\Agenda Telefonica\PhoneBook\PhoneBook\PhoneBook.Tests\obj\Debug\net6.0\PhoneBook.Tests.genruntimeconfig.cache
